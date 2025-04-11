@@ -7,7 +7,7 @@ const Logo = ({ className = "", color, ...props }) => {
     <img
       src={color ? LogoIconWhite : LogoIcon}
       alt="logo"
-      className={`w-32 h-10 ${className}`}
+      className={`w-32 h-10 rounded-xl ${className}`}
       {...props}
     />
   );
