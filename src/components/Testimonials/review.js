@@ -5,28 +5,22 @@ import Shanai from "../../assets/avatar-shanai.png";
 
 const testimonials = [
   {
-    name: "Anisha Li",
+    name: "Hormel Foods",
     picture: Anisha,
     review:
-      "“Manage has supercharged our team’s workflow. The ability to maintain  visibility on larger milestones at all times keeps everyone motivated.”",
+      "“Our sales productivity has skyrocketed since we started using this SPM solution. It's a total game-changer.”",
   },
   {
-    name: "Ali Bravo",
+    name: "Stanley",
     picture: Ali,
     review:
-      "“We have been able to cancel so many other subscriptions since using Manage. There is no more cross-channel confusion and everyone is much more focused.”",
+      "“Managing territories and compensation plans has never been easier. Salesdrive ensures nothing slips through the cracks.”",
   },
   {
-    name: "Richard Watts",
-    picture: Richard,
-    review:
-      "“Manage allows us to provide structure and process. It keeps us organized and focused. I can’t stop recommending them to everyone I talk to!”",
-  },
-  {
-    name: "Shanai Gough",
+    name: "Alto-Shaam",
     picture: Shanai,
     review:
-      "“Their software allows us to track, manage and collaborate on our projects from anywhere. It keeps the whole team in-sync without being intrusive.”",
+      "“As a seasoned sales leader always looking for performance-enhancing tools, this SPM platform instantly grabbed my attention.”",
   },
 ];
 

@@ -9,7 +9,7 @@ import Pinterest from "../../assets/icon-pinterest.svg";
 const SocialHandles = () => {
   const handles = [
     { icon: Facebook, path: "#" },
-    { icon: Youtube, path: "https://www.youtube.com/@ReactLearnerWeb/" },
+    { icon: Youtube, path: "#" },
     { icon: Twitter, path: "#" },
     { icon: Pinterest, path: "#" },
     { icon: Instagram, path: "#" },
@@ -23,10 +23,10 @@ const SocialHandles = () => {
         color="text-DarkGrayishBlue"
         className=" hidden max-md:block"
       >
-        Copyright 2020. All Rights Reserved
+        Copyright 2025. All Rights Reserved
       </Heading>
       {/* Logo */}
-      <Logo color={"white"} />
+      <Logo />
 
       {/* Social Handles */}
       <ul className=" flex gap-2 max-md:gap-5">

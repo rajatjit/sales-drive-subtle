@@ -5,14 +5,13 @@ const NavigationLinks = () => {
   const [isOpen, setIsOpen] = useState(true);
 
   const links = [
-    { name: "Pricing", path: "#" },
-    { name: "Product", path: "#" },
-    {
-      name: "About Us",
-      path: "https://github.com/KamalJoshi-web?tab=repositories",
-    },
-    { name: "Careers", path: "#" },
-    { name: "Community", path: "#" },
+    { name: "SPM Services", path: "" },
+    { name: "Solutions", path: "" },
+    { name: "Partners & Products", path: "" },
+    { name: "Careers", path: "" },
+    { name: "Resources", path: "" },
+    { name: "Blog", path: "" },
+    { name: "About Us", path: "" },
   ];
 
   const responsiveClasses =

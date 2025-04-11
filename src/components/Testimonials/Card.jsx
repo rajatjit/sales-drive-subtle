@@ -6,7 +6,7 @@ const Card = ({ image, name, testimonial }) => {
       <img
         src={image}
         alt={`${name} - avatar `}
-        className="h-12 max-w-[3rem]  relative bottom-6 "
+        className="h-28 max-w-[6.5rem]  relative bottom-6 "
       />
       <h2 className=" font-BeVietnamPro text-DarkBlue font-bold text-center mb-4 ">
         {name}

@@ -15,7 +15,7 @@ const Testimonials = () => {
         What they’ve said
       </Heading>
       <Slider />
-      <Button className=" block m-auto">Get Started</Button>
+      <Button className=" block m-auto">Connect with us</Button>
     </motion.section>
   );
 };

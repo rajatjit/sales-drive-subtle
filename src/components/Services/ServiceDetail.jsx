@@ -7,21 +7,20 @@ const ServiceDetail = () => {
   const services = [
     {
       serialNO: "01",
-      name: "Track company-wide progress",
-      detail: `See how your day-to-day tasks fit into the wider vision. 
-      Go from tracking progress at the milestone level all the way done to the ssmallest of details. Never lose sight  of the bigger picture again.`,
+      name: "Comprehensive Services",
+      detail: `Our services are tailored to provide end-to-end solutions for sales improvement. We offer various software tools, data analysis, and strategies that can help you to achieve your sales goals`,
     },
     {
       serialNO: "02",
-      name: "Advanced built-in reports",
+      name: "Digital Transformation Experts",
       detail:
-        "Set internal delivery estimates and track progress toward company  goals. Our customisable dashboard helps you build out the reports you need to keep key stakeholders informed.",
+        "We have expertise in guiding organizations through complex digital transformation processes, including the Quote-to-Commission process. We help you to adapt to the changing market conditions and buyer demands by providing appropriate technology solutions.",
     },
     {
       serialNO: "03",
-      name: "Everything you need in one place",
+      name: "Industry-Focused",
       detail:
-        " Stop jumping from one service to another to communicate, store files, track tasks and share documents. Manage offers an all-in-one team productivity solution.",
+        "We collaborate with industries to understand their needs and help them to optimize their business processes. We focus mainly on Incentive Compensation Software and have experience with various sales compensation software across multiple verticals.",
     },
   ];
 

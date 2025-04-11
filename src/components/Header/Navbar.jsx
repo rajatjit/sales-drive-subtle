@@ -17,7 +17,7 @@ const Navbar = () => {
       {/* Links */}
       <NavigationLinks />
       {/* Button */}
-      <Button className=" max-md:hidden">Get Started</Button>
+      <Button className=" max-md:hidden">Talk to expert</Button>
     </motion.nav>
   );
 };

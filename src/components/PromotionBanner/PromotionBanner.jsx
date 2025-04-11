@@ -18,7 +18,7 @@ const PromotionBanner = () => {
         className="  z-40 before:content-promotionBannerDesktop  before:absolute before:-top-20 before:right-0 
         max-md:before:content-promotionBannerMobile  max-md:before:right-80  "
       >
-        Simplify how your team <br /> works today.
+        Sales Performance Management <br /> made easy & efficient.
       </Heading>
       <Button
         bgColor="bg-white"

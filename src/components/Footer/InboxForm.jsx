@@ -19,7 +19,7 @@ const InboxForm = () => {
       <form onSubmit={handleSubmit(data)}>
         <input
           type="text"
-          placeholder="Updates in your inbox…"
+          placeholder="stay updated..."
           className={`p-2 rounded-3xl mr-2 font-BeVietnamPro text-sm ${
             errors?.email ? " outline-BrightRed border border-BrightRed" : null
           }`}
@@ -31,7 +31,7 @@ const InboxForm = () => {
             },
           })}
         />
-        <Button type="submit">Go</Button>
+        <Button type="submit">Sign up</Button>
         {errors?.email ? (
           <p className=" text-BrightRed  font-BeVietnamPro text-xs  mt-1 ml-2">
             {errors.email.message}
@@ -43,7 +43,7 @@ const InboxForm = () => {
         color="text-DarkGrayishBlue"
         className="block max-md:hidden"
       >
-        Copyright 2020. All Rights Reserved
+        Copyright 2025. All Rights Reserved
       </Heading>
     </div>
   );

@@ -22,13 +22,13 @@ const About = () => {
         whileInView="animate"
       >
         <Heading className=" text-4xl max-md:text-3xl mb-10 ">
-          What’s different about <br /> Manage?
+          What’s different about <br /> Salesdrive?
         </Heading>
         <p className=" leading-6 font-BeVietnamPro text-DarkGrayishBlue text-start max-md:text-center">
-          Manage provides all the functionality your <br /> team needs, without
-          the complexity. Our <br /> software is tailor-made for modern digital{" "}
-          <br />
-          product teams.
+        Salesdrive is a leading provider of Oracle CX solutions based in Dallas, Texas. <br/>
+        Our team brings over 65 years of combined experience in modernizing incentive compensation <br/> 
+        processes through technology enablement. At Salesdrive, we are dedicated to <br/> helping our clients optimize 
+        their sales processes and align technology solutions to <br/> meet their objectives.
         </p>
       </motion.div>
     </div>

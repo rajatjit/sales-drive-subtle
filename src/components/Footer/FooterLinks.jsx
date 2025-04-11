@@ -2,15 +2,15 @@ import React from "react";
 
 const FooterLinks = () => {
   const links = [
-    { name: "Home", path: "#" },
-    { name: "Pricing", path: "#" },
-    { name: "Products", path: "#" },
-    { name: "About Us", path: "https://kamal-dev.vercel.app/" },
+    { name: "SPM Services", path: "" },
+    { name: "Solutions", path: "" },
+    { name: "Partners & Products", path: "" },
+    { name: "Blog", path: "" },
   ];
   const moreLinks = [
-    { name: "Careers", path: "#" },
-    { name: "Community", path: "#" },
-    { name: "Privacy Policy", path: "#" },
+    { name: "Careers", path: "" },
+    { name: "Resources", path: "" },
+    { name: "About Us", path: "" },
   ];
 
   return (
