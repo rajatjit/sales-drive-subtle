@@ -1,5 +1,5 @@
 import React from "react";
-import LogoIcon from "../assets/logo.png";
+import LogoIcon from "../assets/logo.svg";
 import LogoIconWhite from "../assets/logo-white.svg";
 
 const Logo = ({ className = "", color, ...props }) => {
@@ -7,7 +7,7 @@ const Logo = ({ className = "", color, ...props }) => {
     <img
       src={color ? LogoIconWhite : LogoIcon}
       alt="logo"
-      className={`w-32 h-10 rounded-xl ${className}`}
+      className={`w-32 h-10 ${className}`}
       {...props}
     />
   );
