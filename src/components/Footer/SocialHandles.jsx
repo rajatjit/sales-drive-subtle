@@ -3,7 +3,7 @@ import { Logo, Heading } from "../index";
 import Facebook from "../../assets/icon-facebook.svg";
 import Instagram from "../../assets/icon-instagram.svg";
 import Twitter from "../../assets/icon-twitter.svg";
-import Youtube from "../../assets/icon-Youtube.svg";
+import Youtube from "../../assets/icon-youtube.svg";
 import Pinterest from "../../assets/icon-pinterest.svg";
 
 const SocialHandles = () => {
